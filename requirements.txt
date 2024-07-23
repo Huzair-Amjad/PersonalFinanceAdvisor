@@ -1,5 +1,6 @@
+streamlit
+openai
 
 
 
-
--e
+-e .
